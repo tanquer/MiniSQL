@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniSql", "MiniSql\MiniSql.vcxproj", "{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Debug|x64.ActiveCfg = Debug|x64
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Debug|x64.Build.0 = Debug|x64
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Debug|x86.ActiveCfg = Release|Win32
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Debug|x86.Build.0 = Release|Win32
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Release|x64.ActiveCfg = Release|x64
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Release|x64.Build.0 = Release|x64
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Release|x86.ActiveCfg = Release|Win32
+		{19B3D9CC-B4E9-4C3A-A00C-3239F270761F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A944677-6FB1-486D-8CA5-BEF4BB395A4B}
+	EndGlobalSection
+EndGlobal
