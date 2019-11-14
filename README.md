@@ -4,7 +4,7 @@ This a simple SQL Database System.
 
 # Compiler Requirements
 
-- MSVC 14.0+
+- MSVC 15.0+
 
 # Contents
 
